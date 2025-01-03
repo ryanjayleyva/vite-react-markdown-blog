@@ -5,12 +5,12 @@ html {
   --system-ui: "IBM Plex Mono", monospace;
 
   /* light */
-  --background-light: rgb(245 245 245);
-  --text-light: rgb(23 23 23);
+  --background-light: rgb(248, 250, 251);
+  --text-light: rgb(3, 5, 7);
 
   /* dark */
-  --background-dark: rgb(23 23 23);
-  --text-dark: rgb(245 245 245);
+  --background-dark: rgb(3, 5, 7);
+  --text-dark: rgb(248 250 251);
 
   /* highlight */
   --highlight-light: rgb(247, 103, 7);
