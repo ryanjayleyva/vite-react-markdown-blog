@@ -24,3 +24,9 @@ A fast and simple blog built with Vite and React that renders content from Markd
 - Modify the theme and layout by editing the React components.
 - Extend features with your own plugins or libraries.
 - Perfect for personal blogs, portfolios, or small content-driven websites.
+
+## Inspiration for This Project
+
+- [AstroPaper](https://astro.build/themes/details/astropaper/)
+
+![AstroPaper](https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastro-paper-hero.webp&w=1600&h=900&f=webp "AstroPaper")
