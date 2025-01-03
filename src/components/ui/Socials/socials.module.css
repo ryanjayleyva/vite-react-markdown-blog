@@ -1,0 +1,42 @@
+.socials {
+  display: flex;
+  gap: 0.5rem;
+}
+
+p {
+  font-weight: 450;
+  padding-top: 0.5rem;
+}
+
+.links {
+  display: flex;
+  gap: inherit;
+  padding-top: 0.4rem;
+}
+
+.githubIcon {
+  transition: transform 0.3s ease;
+}
+
+.githubIcon:hover {
+  color: var(--highlight-light);
+  transform: scale(1.1) rotate(10deg);
+}
+
+.linkedinIcon {
+  transition: transform 0.3s ease;
+}
+
+.linkedinIcon:hover {
+  color: var(--highlight-light);
+  transform: scale(1.1) rotate(-10deg);
+}
+
+.instagramIcon {
+  transition: transform 0.3s ease;
+}
+
+.instagramIcon:hover {
+  color: var(--highlight-light);
+  transform: scale(1.1) rotate(10deg);
+}

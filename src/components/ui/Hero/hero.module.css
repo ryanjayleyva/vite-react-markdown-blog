@@ -1,0 +1,65 @@
+.container {
+  max-width: 50rem;
+  padding: 1rem;
+  transition: 0.3s ease;
+}
+
+.author {
+  font-weight: 700;
+}
+
+.about {
+  font-size: 1rem;
+  font-weight: 450;
+  margin-block: 0.5rem;
+}
+
+@media (max-width: 37.5rem) {
+  .container {
+    margin: 10rem auto 0 auto;
+  }
+
+  .author {
+    font-size: 1.9375rem;
+  }
+}
+
+@media (min-width: 37.5rem) {
+  .container {
+    margin: 12rem auto 0 auto;
+  }
+
+  .author {
+    font-size: 2rem;
+  }
+}
+
+@media (min-width: 48rem) {
+  .container {
+    margin: 14rem auto 0 auto;
+  }
+
+  .author {
+    font-size: 2.0625rem;
+  }
+}
+
+@media (min-width: 62rem) {
+  .container {
+    margin: 16rem auto 0 auto;
+  }
+
+  .author {
+    font-size: 2.125rem;
+  }
+}
+
+@media (min-width: 75rem) {
+  .container {
+    margin: 18rem auto 0 auto;
+  }
+
+  .author {
+    font-size: 2.1875rem;
+  }
+}
