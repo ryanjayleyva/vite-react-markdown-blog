@@ -12,21 +12,23 @@ A fast and simple blog built with Vite and React that renders content from Markd
 - 🔥 **Hot Reloading:** Enjoy live reloading with Vite during development.
 - 💻 **Lightweight:** Minimal dependencies, such as `react-markdown` and `marked` for quick setup and deployment.
 
-## Getting Started:
-
-- Clone the repository: `git clone https://github.com/ryanjayleyva/vite-react-markdown-blog.git`
-- Install dependencies: `npm install`
-- Run the development server: `npm run dev`
-
-## Customization:
+## Customizable:
 
 - Easily add your own markdown files to the `posts` directory.
 - Modify the theme and layout by editing the React components.
 - Extend features with your own plugins or libraries.
 - Perfect for personal blogs, portfolios, or small content-driven websites.
 
+## Getting Started:
+
+- Clone the repository: `git clone https://github.com/ryanjayleyva/vite-react-markdown-blog.git`
+- Install dependencies: `npm install`
+- Run the development server: `npm run dev`
+
 ## Inspiration for This Project
 
 - [AstroPaper](https://astro.build/themes/details/astropaper/)
 
 ![AstroPaper](https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastro-paper-hero.webp&w=1600&h=900&f=webp "AstroPaper")
+
+**NOTE** This project is still ongoing. Currently, I am learning about data fetching and exploring different libraries, such as react-markdown and marked, to determine the safest approach for handling markdown in React.
