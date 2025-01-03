@@ -1,5 +1,7 @@
 # RJ Leyva's Vite + React Markdown Blog
 
+**NOTE** This project is still ongoing. Currently, I am learning about data fetching and exploring different libraries, such as react-markdown and marked, to determine the safest approach for handling markdown in React.
+
 **This project is meant to serve as a beginner-friendly template and guide for creating personal blogs, portfolios, or simple content-driven websites.**
 
 A fast and simple blog built with Vite and React that renders content from Markdown files. Ideal for aspiring developers who want to quickly create a lightweight, customizable, and blazing-fast blog using Vite and React.
@@ -30,5 +32,3 @@ A fast and simple blog built with Vite and React that renders content from Markd
 - [AstroPaper](https://astro.build/themes/details/astropaper/)
 
 ![AstroPaper](https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastro-paper-hero.webp&w=1600&h=900&f=webp "AstroPaper")
-
-**NOTE** This project is still ongoing. Currently, I am learning about data fetching and exploring different libraries, such as react-markdown and marked, to determine the safest approach for handling markdown in React.
